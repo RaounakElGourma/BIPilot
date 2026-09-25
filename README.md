@@ -36,21 +36,6 @@ SQLite FAISS  SQL + Reviews
       BIPilot
 ```
 
-## Example questions
-
-```text
-Which brands have the highest average product rating?
-
-Which skincare products are more expensive than the average skincare product?
-
-What do customers dislike about moisturizers?
-
-Which highly rated skincare products still receive complaints?
-
-Which expensive skincare products are highly recommended by customers,
-and what do customers like about them?
-```
-
 ## Tech Stack
 
 **Python · Streamlit · Google Gemini · SQLite · Pandas · Plotly · FAISS · Sentence Transformers**
